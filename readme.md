@@ -13,6 +13,12 @@
 gosh
 ```
 
+## Execute script
+
+```sh
+gosh a.scm
+```
+
 ## References
 
 * http://d.hatena.ne.jp/neko-gensui/20120503/1336052919
